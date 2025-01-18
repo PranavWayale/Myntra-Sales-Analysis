@@ -55,3 +55,4 @@ Dataset.xlsx: The Excel file used for analysis (if applicable).
 
 README.md: Project documentation.
 
+![Image](https://github.com/user-attachments/assets/c56c38ac-d7a1-45f4-9eda-7c71cbf0806b)
